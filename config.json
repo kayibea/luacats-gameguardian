@@ -1,0 +1,6 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_config.schema.json",
+  "name": "GameGuardian",
+  "description": "Provides definitions for GameGuardian Lua API",
+  "words": ["gg", "gg%.%w+"]
+}
